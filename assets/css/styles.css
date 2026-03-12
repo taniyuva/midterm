@@ -1,6 +1,6 @@
 :root {
 --beige: #f5ecd5;
---midnight-violet: #3d0324;
+--red: #b52b50;
 --blue: #383380;
 }
 
@@ -10,7 +10,7 @@ background-color: var(--beige);
 
 h1 {
 font-family: "Shizuru", system-ui;
-color: var(--midnight-violet);
+color: var(--red);
 font-size: 36px;
 }
 
@@ -28,7 +28,7 @@ font-size: 17px;
 
 h2 {
 font-family: "Shizuru", system-ui;
-color: var(--midnight-violet);
+color: var(--red);
 font-size: 22px;
 }
 
