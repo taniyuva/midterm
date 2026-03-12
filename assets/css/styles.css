@@ -20,6 +20,7 @@ h1 {
 p {
     font-family: "Special Elite", system-ui;
     font-weight: 400;
+    color: var(--blue);
     font-style: normal;
     font-size:17px;
 }
@@ -30,13 +31,7 @@ h2 {
   font-size:22px;
 }
 
-ul li a {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    color: var(--blue);
-    font-size:17px;
 
-}
 
 .image {
     width: 300px;
