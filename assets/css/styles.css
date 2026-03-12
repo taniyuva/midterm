@@ -15,7 +15,7 @@ background-color: var(--beige);
 
 h1 {
   font-family: "Shizuru", system-ui;
-  color: var(midnight-violet);
+  color: var(--midnight-violet);
 }
 
 p {
