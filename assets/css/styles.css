@@ -1,7 +1,4 @@
-/* styles.css */
-
 :root {
-/* CSS HEX */
 --beige: #f5ecd5;
 --midnight-violet: #3d0324;
 --blue: #0d0a36;
@@ -12,26 +9,28 @@ background-color: var(--beige);
 }
 
 h1 {
-  font-family: "Shizuru", system-ui;
-  color: var(--midnight-violet);
-  font-size:36px;
+font-family: "Shizuru", system-ui;
+color: var(--midnight-violet);
+font-size: 36px;
 }
 
 p {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    color: var(--blue);
-    font-style: normal;
-    font-size:17px;
+font-family: "Special Elite", system-ui;
+color: var(--blue);
+font-size: 17px;
+}
+
+ul li {
+font-family: "Special Elite", system-ui;
+color: var(--blue);
+font-size: 17px;
 }
 
 h2 {
-  font-family: "Shizuru", system-ui;
-  color: var(--midnight-violet);
-  font-size:22px;
+font-family: "Shizuru", system-ui;
+color: var(--midnight-violet);
+font-size: 22px;
 }
-
-
 
 .image {
     width: 300px;
