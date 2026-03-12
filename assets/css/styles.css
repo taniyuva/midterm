@@ -2,11 +2,8 @@
 
 :root {
 /* CSS HEX */
---beige: rgb(255, 229, 151);
---berry-blush: #a23b72ff;
---carrot-orange: #f18f01ff;
---red-ochre: #c73e1dff;
---midnight-violet: #3b1f2bff;
+--beige: #f5ecd5;
+--midnight-violet: #3d0324;
 }
 
 body {
